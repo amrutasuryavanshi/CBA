@@ -4,7 +4,7 @@ using namespace std;
 class power_window
 {
 public:
-    //int engine_status;
+    int engine_status;
     char door_status;
     char window_status;
     char choice;
